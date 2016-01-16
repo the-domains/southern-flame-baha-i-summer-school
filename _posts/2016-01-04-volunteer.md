@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T01:36:35.925Z'
-dateModified: '2016-01-04T01:35:44.951Z'
+datePublished: '2016-01-16T03:05:44.248Z'
+dateModified: '2016-01-04T02:20:33.983Z'
 title: Volunteer
 author: []
 authors: []
@@ -22,4 +22,4 @@ url: volunteer/index.html
 _type: WebPage
 
 ---
-## Southern Flame Baha'i Summer School is always looking for those who are willing and able to assist with teaching children's classes, stage hand for shows or any other type help when needed.
+## We are also looking for those who are willing to volunteer their time to teach or lead children sessions
