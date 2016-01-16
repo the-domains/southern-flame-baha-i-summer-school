@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Southern Flame Bahá'í  Summer School]]></title>
         <description><![CDATA[Southern Flame Bahá'í  Summer School]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/southern-flame-baha-i-summer-school/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 02:51:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jan 2016 02:57:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/southern-flame-baha-i-summer-school/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0c4adb8-6624-4dcd-92f9-67aae7b5fcba.png">]]></description>
-            <link>undefined0da692b4-14c2-48f5-ad6a-8a0e1d0f19e4/index.html</link>
+            <link>https://thegrid.ai/southern-flame-baha-i-summer-school/0da692b4-14c2-48f5-ad6a-8a0e1d0f19e4/index.html</link>
             <guid isPermaLink="false">0da692b4-14c2-48f5-ad6a-8a0e1d0f19e4</guid>
-            <pubDate>Sat, 16 Jan 2016 02:51:03 GMT</pubDate>
+            <pubDate>Sat, 16 Jan 2016 02:57:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
