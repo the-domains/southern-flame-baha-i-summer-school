@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-16T03:25:01.495Z'
-dateModified: '2016-01-16T03:25:01.046Z'
+datePublished: '2016-01-16T03:27:13.389Z'
+dateModified: '2016-01-16T03:27:11.585Z'
 title: "The Southern Flame\_Bahá’í Summer School is joyous, fun time over 4 days in July. Southern Flame\_Bahá’í \_Summer School provides a relaxed and fun learning, spiritual environment."
 author: []
 sourcePath: _posts/2016-01-04-summer-school.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: summer-school/index.html
-_type: Article
+_type: WebPage
 
 ---
 # 
