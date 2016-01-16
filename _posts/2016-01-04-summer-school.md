@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-04T01:36:58.879Z'
-dateModified: '2016-01-04T01:35:58.604Z'
-title: Summer School
+description: About
+datePublished: '2016-01-16T03:15:18.485Z'
+dateModified: '2016-01-16T03:09:43.150Z'
+title: "The Southern Flame\_Bahá’í Summer School is joyous, fun time over 4 days in July. Southern Flame\_Bahá’í \_Summer School provides a relaxed and fun learning, spiritual environment."
 author: []
 authors: []
 publisher:
@@ -22,4 +22,6 @@ url: summer-school/index.html
 _type: WebPage
 
 ---
-The Southern Flame Baha'i Summer School is a joyous, fun time for 4 days in July. Southern Flame Baha'i School provides a relaxed and fun learning in a spiritual environment.
+# 
+
+# The Southern Flame Bahá'í Summer School is joyous, fun time over 4 days in July. Southern Flame Bahá'í  Summer School provides a relaxed and fun learning, spiritual environment.
