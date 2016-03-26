@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-26T21:50:40.025Z'
-dateModified: '2016-03-26T21:50:03.220Z'
+description: We are also looking for those who are willing to volunteer their time to teach or lead children sessions
+datePublished: '2016-03-26T23:07:58.308Z'
+dateModified: '2016-03-26T23:07:48.510Z'
 title: Volunteer
 author: []
 sourcePath: _posts/2016-01-04-volunteer.md
