@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: Registration To start soon...Check back.
-datePublished: '2016-03-26T21:50:49.487Z'
-dateModified: '2016-03-26T21:48:47.092Z'
+datePublished: '2016-03-26T21:54:19.013Z'
+dateModified: '2016-03-26T21:54:11.736Z'
 title: Registration
 author: []
 sourcePath: _posts/2016-01-04-registration.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: registration/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 Registration To start soon...Check back.
